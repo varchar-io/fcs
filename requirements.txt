@@ -1,0 +1,26 @@
+# Flask is used to build the service
+Flask
+
+# for production hosting as a Python WSGI server
+waitress
+
+# we use kats for forcasting
+# https://github.com/facebookresearch/Kats
+# pandas>=1.0.4
+# cmdstanpy>=1.0.4
+# pystan==2.19.1.1
+prophet==1.1.5
+numpy<2
+
+# pysaml2 for saml
+# pysaml2==7.2.1
+scikit-learn
+
+# use xgboost for training
+xgboost
+
+# sentence-transformers for sentence embeddings
+sentence-transformers
+
+# transformers for BERT embeddings
+evaluate

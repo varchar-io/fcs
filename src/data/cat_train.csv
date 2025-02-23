@@ -1,0 +1,10 @@
+Withdrawal Debit Card PHR*TampaPainReliefCent Tampa FL Card 3397,Tampapainreliefcent Fl Tampa ,null null,unknown,-70,medical.primary_care
+Deposit at ATM #000000006690 SUNCOAST CREDIT UNION 6367 MANATEE AVE W Card 3397,6367 Manatee Ave ,null null,unknown,229.50,income.other_income
+Deposit ACH UWMM LOCAL 810 P,Uwmm Local ,null null,unknown,63.00,income.other_income
+Withdrawal POS #0052080 PUBLIX 3933 MANATEE AVE W BRADENTON FL Card 3397,Publix,null null,unknown,-39.11,food_and_drink.groceries
+Withdrawal Debit Card SHELL OIL 57542485800 BRADENTON FL Card 3397,Shell,null null,unknown,-25.05,transportation.gas_and_charging
+Withdrawal POS #503017229538 WINN-DIXIE #06 7400 44T BRADENTON FL Card 3397,Winn-Dixie Stores,null null,unknown,-128.25,food_and_drink.groceries
+Withdrawal Debit Card Amazon Prime*ZC5IG73Q1 Amzn.com/bill WA Card 3397,Amazon Prime,null null,unknown,-15.13,entertainment.tv_and_movies
+Withdrawal POS #503011004938 SHELL SERVICE STATION BRADENTON FL Card 3397,Shell,null null,unknown,-10,other_expenses
+Deposit ACH 11431 YMCA OF SO,Ymca Of So ,null null,unknown,227.31,personal_care.gyms_and_fitness_centers
+Withdrawal Debit Card PUBLIX #780 BRADENTON FL Card 3397,Publix,null null,unknown,-388.95,food_and_drink.groceries
