@@ -3,6 +3,9 @@
 This is AI module serving Columns intelligence need. Some of external services are directly used by api, such as GPT-3.
 But this module includes all the interfaces serving columns internally.
 
+## Public API
+You can get started with this public API in production from [here](https://app.fina.money/doc/vAmbM52OaDgRal?ref=github).
+
 ## Flask
 Flask is simple service we use build up a web service, install it from
 ```
